@@ -1,0 +1,15 @@
+{
+  "name": "examples",
+  "private": true,
+  "packageManager": "pnpm@10.15.0",
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^5.2.1",
+    "eslint": "^9.33.0",
+    "prettier-plugin-slidev": "^1.0.5",
+    "taze": "^19.1.0"
+  }
+}
